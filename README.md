@@ -5,6 +5,7 @@ Face Symphony is a user-friendly facial verification application powered by adva
 ## How It Works
 
 Face Symphony employs state-of-the-art Siamese Neural Networks, detailed in the research paper [“Siamese Neural Networks for One-shot Image Recognition”](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf), to achieve high accuracy in facial recognition. The app detects and verifies faces with efficiency, transforming the way identity verification is conducted.
+The negative images data used in this application is sourced from the [LFW - Labeled Faces in the Wild](https://vis-www.cs.umass.edu/lfw/) dataset. We acknowledge and appreciate the contributions of the LFW dataset creators for providing valuable data for our project.
 
 ## Technologies Used
 
